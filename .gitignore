@@ -1,2 +1,4 @@
 logs/*
 !.gitkeep
+.idea.
+.sass-cache
